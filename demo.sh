@@ -25,40 +25,64 @@ git add-commit -m "Adding conent"
 echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
-git add-commit -m "Adding conent"echo "Hello 4 $USER" >> index.html
+git add-commit -m "Adding conent"
+
+echo "Hello 4 $USER" >> index.html
 echo "Today is $(date)" >> index.html
 
 git add-commit -m "Adding conent"
