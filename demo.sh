@@ -5,4 +5,4 @@ echo "Today is $(date)" >> index.html
 
 git add-commit -m "Adding conent"
 
-git push origin master
+git push origin about
